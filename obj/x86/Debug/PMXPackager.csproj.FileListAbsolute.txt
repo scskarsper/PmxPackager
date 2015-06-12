@@ -1,0 +1,22 @@
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\bin\Debug\PMXPackager.exe
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\bin\Debug\PMXPackager.pdb
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\bin\Debug\PEPlugin.dll
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\bin\Debug\PMDEditorLib.dll
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\bin\Debug\SlimDX.dll
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\obj\x86\Debug\PMXPackager.csprojResolveAssemblyReference.cache
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\obj\x86\Debug\PMXPackager.Form1.resources
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\obj\x86\Debug\PMXPackager.Properties.Resources.resources
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\obj\x86\Debug\PMXPackager.csproj.GenerateResource.Cache
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\obj\x86\Debug\PMXPackager.exe
+C:\Users\Balthasar\AppData\Local\Temporary Projects\PMXPackager\obj\x86\Debug\PMXPackager.pdb
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\obj\x86\Debug\PMXPackager.exe
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\obj\x86\Debug\PMXPackager.pdb
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\bin\Debug\PMXPackager.exe
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\bin\Debug\PMXPackager.pdb
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\bin\Debug\PEPlugin.dll
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\bin\Debug\PMDEditorLib.dll
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\bin\Debug\SlimDX.dll
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\obj\x86\Debug\PMXPackager.csprojResolveAssemblyReference.cache
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\obj\x86\Debug\PMXPackager.Form1.resources
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\obj\x86\Debug\PMXPackager.Properties.Resources.resources
+C:\Users\Balthasar\documents\visual studio 2010\Projects\PMXPackager\obj\x86\Debug\PMXPackager.csproj.GenerateResource.Cache
